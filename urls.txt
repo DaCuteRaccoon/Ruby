@@ -1,0 +1,3 @@
+https://learnxinyminutes.com/docs/ruby/
+https://www.selenium.dev/documentation/webdriver/remote_webdriver/
+https://bundler.io/
