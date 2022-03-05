@@ -2,3 +2,4 @@ https://learnxinyminutes.com/docs/ruby/
 https://learnxinyminutes.com/docs/toml/
 https://www.selenium.dev/documentation/webdriver/remote_webdriver/
 https://bundler.io/
+https://gist.github.com/nifl/1181656
