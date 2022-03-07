@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+clear
+
+echo "Type 'exit' or press <CTRL + D> to exit IRB"
+
+irb
