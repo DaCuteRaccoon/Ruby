@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'toml'
+require 'colorize'
 
 
 def clear
@@ -13,4 +14,8 @@ def user
   puts userData
 end
 
+def colorHelp(help)
+	eval "puts String.#{help}"
+end
 
+puts 'Hello, world!'
