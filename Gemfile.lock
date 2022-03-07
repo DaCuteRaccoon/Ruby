@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    colorize (0.8.1)
     io-console (0.5.11)
     irb (1.4.1)
       reline (>= 0.3.0)
@@ -14,6 +15,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  colorize (~> 0.8.1)
   irb (~> 1.4, >= 1.4.1)
   toml (~> 0.3.0)
 
