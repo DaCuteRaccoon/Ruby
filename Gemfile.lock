@@ -6,6 +6,7 @@ GEM
     irb (1.4.1)
       reline (>= 0.3.0)
     parslet (2.0.0)
+    rake (13.0.6)
     reline (0.3.1)
       io-console (~> 0.5)
     toml (0.3.0)
@@ -17,6 +18,7 @@ PLATFORMS
 DEPENDENCIES
   colorize (~> 0.8.1)
   irb (~> 1.4, >= 1.4.1)
+  rake (~> 13.0, >= 13.0.6)
   toml (~> 0.3.0)
 
 BUNDLED WITH
