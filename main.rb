@@ -10,8 +10,8 @@ end
 
 def user
 	TOML.load_file("user.toml")
-  userData = TOML.load_file("user.toml")
-  puts userData
+  $userData = TOML.load_file("user.toml")
+  puts $userData
 end
 
 def colorHelp(help)
