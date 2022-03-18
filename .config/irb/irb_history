@@ -1,1 +1,108 @@
-
+puts 'a'
+exit
+.exit
+exit
+puts 'a'
+URL
+url
+uri
+URI
+exit
+.exit
+exit
+eval("puts 'a" + "pple'")
+test = 'WTF! WHY DID YOU '
+puts test
+toast
+puts toast
+!toast
+puts nil
+nil
+null
+null = nil
+null
+NIL
+NULL = NIL
+null
+NULL
+NiL
+toast = test + 'a'
+toast
+selenium
+puts $userData
+$userData = TOML.load_file("user.toml")
+clear
+login
+def user\
+  TOML.load_file("user.toml")\
+  $userData = TOML.load_file("user.toml")\
+  puts userData\
+  puts $userData\
+end
+user
+OS
+os
+require 'os'
+OS
+os
+OS.windows
+os.windows?
+OS.windows?
+OS.bits?
+specs
+system
+system "echo"
+system "irb"
+exit
+puts 
+puts 'a\nb'
+puts "a\nb"
+require 'os'
+Gem
+geM
+gem
+Gea
+Gem::Platform
+Gem::Plat
+Gem::platform
+Gem::platforms
+Gem::platforms=\
+Gem::Platform
+Gem::Platform.local
+FFII
+FFI
+system 'bind \'\"\eOQ\":\"bundle exec ruby main.rb\"\''
+system 'bind'
+exit
+puts `a`
+puts `puts 'a'`
+puts `echo a`
+`echo a`
+eval `echo a`
+eval 'puts "a"'
+puts `echo 'a'`
+puts `bind '"\eOQ":"bundle exec ruby main.rb"'`
+require 'colorize'
+puts 'a'
+puts a
+end
+exit
+system 'echo abacus > ./ruby/osreport.yaml'
+system "echo 'test/nbest' > ./ruby/osreport.yaml"
+exit
+puts 'a'
+alias fucc puts
+fucc 'a'
+voi
+void
+alias :penis :puts
+penis
+penis a
+penis 'a'
+:penis 
+exit
+puts :a
+puts :a:
+puts :fuck
+rake
+gem
