@@ -2,4 +2,10 @@ https://learnxinyminutes.com/docs/ruby/
 https://learnxinyminutes.com/docs/toml/
 https://www.selenium.dev/documentation/webdriver/remote_webdriver/
 https://bundler.io/
+https://github.com/DaCuteRaccoon/colorize
+https://tryitands.ee/
+https://stackoverflow.com/questions/71389408/why-is-a-comment-in-bash/
+https://github.com/rdp/os/
+https://www.google.com/search?q=how+to+require+a+file+in+ruby
+https://stackoverflow.com/questions/16856243/how-to-require-a-ruby-file-from-another-directory
 https://gist.github.com/nifl/1181656
