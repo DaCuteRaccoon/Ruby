@@ -1,6 +1,7 @@
-#!/bin/bash
+#!/usr/bin/env ruby
 
 bundle install
+# bundle lock
 
 # https://stackoverflow.com/questions/43299366/bundle-vs-bundler-bundle-vs-bundle-install
 # https://github.com/DaCuteRaccoon/bundler
