@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+
+if [[ -f './selenium/chromedriver' ]];
+then
+	echo 'export PATH=$PATH:./selenium/chromedriver' >> ~/.bash_profile
+	source ~/.bash_profile
+fi
